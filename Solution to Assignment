@@ -1,15 +1,44 @@
-# Software Engineering 
+## Software Engineering 
 It involves the application of engineering principles 
 in designing, developing, maintaining, testing and evaluating
 software. To ensure that high quality softwares are made that meets users needs,
 is efficient, maintainable and reliable.
 
-# Difference Between Software Engineering and Traditional Programing
+## Difference Between Software Engineering and Traditional Programing
 The differnce is primarily in the approach;
 while software engineeeing adopts a broader approach 
 which involves collaboration, applying best engineering principles,
 maintenability and overral best practice,
 traditional programing basically involves writing code to solve a 
 particular problem.
+
+
+## Software Development Lifecycle
+Software development lifecycle refers to a structured process used by 
+software engineers to desing, develop test and deploy software products, so
+as to deliver high quality software products that meets or surpasses the 
+user's expectations within given time and budget.
+
+
+The key phases of software development lifecycle involves:
+1. planning
+2. Requirements Analysis 
+3. System Design
+4. Implementation(coding)
+5. Testing
+6. Maintenance 
+
+Differnce between Agile and Waterfall Models of Software Development Lifecycle
+### Agile:
+Emphasizes flexibility, customer collaboration, and iterative development.
+Features short development cycles called sprints.
+Popular methodologies include Scrum and Kanban.
+
+### Waterfall:
+Linear and sequential approach.
+Each phase must be completed before the next begins.
+Suitable for projects with well-defined requirements.
+
+
 
 
