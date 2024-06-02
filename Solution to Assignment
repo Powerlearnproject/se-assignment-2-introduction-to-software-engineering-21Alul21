@@ -21,12 +21,30 @@ user's expectations within given time and budget.
 
 
 The key phases of software development lifecycle involves:
-1. planning
-2. Requirements Analysis 
-3. System Design
-4. Implementation(coding)
-5. Testing
-6. Maintenance 
+1. planning:
+    Objective: Determine the scope and purpose of the software project.
+    Activities: Define project goals, perform feasibility studies, 
+    estimate costs and resources, and create a project plan.
+2. Requirements Analysis:
+    Objective: Gather and document the software requirements from stakeholders.
+    Activities: Conduct interviews, surveys, and meetings to understand user needs and 
+    system requirements. Create detailed requirements documentation.
+3. System Design:
+   Objective: Define the software architecture and design the system components.
+   Activities: Create system models, diagrams (like UML diagrams), and design specifications 
+   that outline how the software will meet the requirements.
+4. Implementation(coding):
+   Objective: Convert the system design into executable code.
+   Activities: Write and compile code, adhere to coding standards, 
+   and perform unit testing to ensure individual components work as intended.
+5. Testing:
+   Objective: Verify that the software works as intended and is free of defects.
+   Activities: Conduct various tests, including unit testing, integration testing, system testing, 
+   and acceptance testing. Identify and fix bugs.
+6. Maintenance:
+   Objective: Ensure the software continues to operate correctly and efficiently after deployment.
+   Activities: Perform ongoing maintenance tasks such as bug fixing, performance optimization, updates, 
+   and enhancements based on user feedback and changing requirements.
 
 Differnce between Agile and Waterfall Models of Software Development Lifecycle
 ### Agile:
@@ -38,6 +56,10 @@ Popular methodologies include Scrum and Kanban.
 Linear and sequential approach.
 Each phase must be completed before the next begins.
 Suitable for projects with well-defined requirements.
+
+
+## Requirement Engineering:
+This involves 
 
 
 
