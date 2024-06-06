@@ -59,7 +59,25 @@ Suitable for projects with well-defined requirements.
 
 
 ## Requirement Engineering:
-This involves 
+This involves the process of documenting, defining and
+maintaining the requirements of a software system.
+
+## Process of Requirements Engineering
+1. Requirements Elicitation: This is the initial phase where requirements are gathered from stakeholders. Techniques used in this phase include interviews, questionnaires, surveys, observation, document analysis, and workshops. The goal is to understand what the stakeholders need and expect from the system.
+2. Requirements Analysis: In this phase, the gathered requirements are examined, structured, and modeled. The aim is to detect and resolve conflicts, redundancies, and ambiguities in the requirements. Techniques such as use case diagrams, data flow diagrams, and entity-relationship diagrams are often used.
+3. Requirements Specification: Here, the analyzed requirements are documented in a detailed and precise manner. The requirements are written in a specification document, often called the Software Requirements Specification (SRS). This document serves as a reference point for developers and stakeholders throughout the project.
+4. Requirements Validation: This phase ensures that the documented requirements accurately represent the stakeholders' needs and expectations. Validation techniques include reviews, inspections, prototyping, and testing. The goal is to verify that the requirements are feasible, consistent, complete, and testable.
+5. Requirements Management: This is an ongoing process that continues throughout the software development lifecycle. It involves tracking changes to requirements, managing versions, maintaining traceability, and ensuring that all changes are communicated to all stakeholders. Requirements management tools are often used to facilitate this process.
+
+## Importance of Requirements Engineering
+1. Clarity and Understanding: Proper requirements engineering ensures that there is a clear and shared understanding of what the system should do. This reduces misunderstandings and miscommunications among stakeholders and the development team.
+2. Scope Management: Clearly defined requirements help in managing the scope of the project. It prevents scope creep, where additional features and changes are introduced without proper evaluation and approval, which can lead to project delays and cost overruns.
+3. Risk Reduction: Identifying and analyzing requirements early helps in identifying potential risks and issues that might affect the project. This proactive approach allows for risk mitigation strategies to be developed and implemented.
+4. Quality Assurance: Validating and managing requirements ensure that the final product meets the intended needs and quality standards. This leads to higher customer satisfaction and fewer defects and rework during the later stages of development.
+5. Cost and Time Efficiency: By getting the requirements right from the beginning, organizations can avoid costly changes and rework. Well-defined requirements lead to more accurate project planning and estimation, contributing to better resource management and timely project completion.
+
+## Modularity in software design 
+refers to the practice of dividing a software system into distinct, self-contained units called modules. Each module encapsulates a specific functionality or a set of related functionalities, and interacts with other modules through well-defined interfaces.
 
 
 
